@@ -1,0 +1,10 @@
+Parallelogram: 3, 5, 60 degrees.
+Area: 12.9904, Perimeter: 16
+Rectangle: 4 x 6
+Circle with radius: 5
+Area: 78.5398, Perimeter: 31.4159
+Right Triangle: sides = 3, 4
+Cube with side: 5
+Volume: 125, Full Area: 150
+Sphere with radius: 3
+Volume: 113.097, Full Area: 113.097
