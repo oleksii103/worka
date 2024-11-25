@@ -40,6 +40,7 @@ public:
 	void displayInfo() const {
 		cout << "Model: " << Model << ", Storage: " << Storage << " ца" << endl;
 	}
+
 };
 
 bool ConsoleFilter(PSP First, PSP NotFirst) {
